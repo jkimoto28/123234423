@@ -42,6 +42,7 @@
 
 #flex-section3 .box {
   display: flex;
+  flex-warp: warp;
   justify-content: space-around;
   align-items: center;
 }
