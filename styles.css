@@ -81,7 +81,7 @@
 }
 
 #grid-section2 .gridboxred {
-  position: absolute;
+  position: relative;
   top: 33%;
   left: 0;
   width: 60%;
