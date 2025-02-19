@@ -2,8 +2,7 @@
 
 #flex-section1 ul {
   display: flex;
-  justify-content: space-between;
-  padding: 40px;
+  justify-content: space-evenly;
   list-style: none;
 }
 
