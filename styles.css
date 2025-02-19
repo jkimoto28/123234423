@@ -74,18 +74,10 @@
 
 #grid-section2 .gridboxblue {
   position: absolute;
-  top: 0;
-  left: 30%;
-  width: 60%;
-  height: 100%;
 }
 
 #grid-section2 .gridboxred {
   position: relative;
-  top: 33%;
-  left: 0;
-  width: 60%;
-  height: 25%;
 }
 
 /* end Grid Part 2 */
