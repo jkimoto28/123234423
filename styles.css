@@ -42,13 +42,12 @@
 
 #flex-section3 .box {
   display: flex;
-  flex-warp: warp;
-  justify-content: space-around;
+  justify-content: center;
   align-items: center;
 }
 
 #flex-section3 .tags ul {
-  display: flex;
+  display: block;
   gap: 8px;
   padding: 0;
   margin: 10px 0 0;
