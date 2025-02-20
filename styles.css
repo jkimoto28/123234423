@@ -73,11 +73,13 @@
 /* Grid Part 2 */
 
 #grid-section2 .gridboxblue {
-  position: absolute;
+  grid-column: 2 / span 2;
+  grid-row: 1 / span 3;
 }
 
 #grid-section2 .gridboxred {
-  position: relative;
+  grid-column: 1 / span 2;
+  grid-row: 2 / 3;
 }
 
 /* end Grid Part 2 */
