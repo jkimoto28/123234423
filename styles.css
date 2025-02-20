@@ -41,7 +41,7 @@
 /* Flexbox Part 3 */
 
 #flex-section3 .box {
-  display: block;
+  display: flex;
   flex-warp: warp;
   justify-content: space-around;
   align-items: center;
